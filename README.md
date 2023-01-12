@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Holmes_Ramirez
-- 👀 I’m interested in job as a developmen junior
+- 👀 I’m interested in job as a junior web developmen or movil developmen
 - 🌱 I’m currently learning android studio, java, Kotlin, angular
 - 💞️ I’m looking to collaborate on mobile development with android studio and kotlin, junior web developmen with java.
 - 📫 How to reach me holmesramirez@hotmail.com, +573133522075
